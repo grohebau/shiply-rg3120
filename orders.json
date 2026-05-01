@@ -1,0 +1,47 @@
+{
+  "SE428152706DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Ferdinand Jensen, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Le Paucker, Katharina-Eberhard-Straße 12, 85540 Haar, Deutschland",
+    "price": "10.290,00 €",
+    "description": "Hersteller: Harley-Davidson<br>Typ: Sportster Forty Eight 1200XL<br>Fahrgestelnummer: 5HD1LC3C1HC418264<br>Erstzulassung: 06/2017<br>KM laut Vorbesitzer: 6.866 km<br>Leistung: 49 kW (67 PS)<br>Hubraum: 1.202 cm³<br>Farbe: Schwarz<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Le Paucker<br>Katharina-Eberhard-Straße 12<br>85540 Haar<br>Deutschland<br>Telefon: +49 152 34167472",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "30.04.2026",
+    "deliveryDate": "06.05.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
