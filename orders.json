@@ -1,6 +1,6 @@
 {
   "SE428152765DE": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Ferdinand Jensen, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Le Paucker, Katharina-Eberhard-Straße 12, 85540 Haar, Deutschland",
@@ -25,8 +25,8 @@
         "url": "docs/AGB.pdf"
       }
     ],
-    "orderDate": "30.04.2026",
-    "deliveryDate": "06.05.2026",
+    "orderDate": "11.05.2026",
+    "deliveryDate": "13.05.2026, 15:30 Uhr",
     "pickup": {
       "street": "",
       "postal_code": "",
